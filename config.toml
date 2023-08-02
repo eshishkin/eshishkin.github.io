@@ -70,7 +70,7 @@ home = ["HTML", "RSS", "Algolia"]
   [params.social]
   rss            = true 
   email          = "shishkin.john@gmail.com"
-  vk             = "https://github.com/eshishkin"
+  vk             = "https://vk.com/eugene_shishkin"
   telegram       = "https://t.me/eshishkin"
   linkedin       = "https://www.linkedin.com/in/eugene-shishkin"
   github         = "https://github.com/eshishkin"
