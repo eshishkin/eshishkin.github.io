@@ -53,8 +53,8 @@ jobs:
           # For maximum backward compatibility with Hugo modules
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
-          HUGO_disqusShortname: $DISQUS_ID
-          HUGO_googleAnalytics: $GOOGLE_ANALYTICS
+          HUGO_disqusShortname: ${{ secrets.DISQUS_ID }}
+          HUGO_googleAnalytics: ${{ secrets.GOOGLE_ANALYTICS }}
         run: |
           hugo \
             --minify \
