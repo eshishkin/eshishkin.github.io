@@ -1,0 +1,25 @@
+{{ $url := .Permalink }}
+{{ $title := .Title }}
+{{ with $.Site.Params.socialShare }}
+<hr>
+<div class="social-share" style="text-align: right">
+    <strong class="social-share__heading">Share this post: </strong>
+    {{ range . }}
+    {{ $href := .formatString }}
+    {{ $href := replace $href "{url}" (urlquery $url) }}
+    {{ $href := replace $href "{title}" (urlquery $title) }}
+    <a
+            class="social-share__item "
+            href="{{ $href | safeURL }}"
+            target="_blank"
+            rel="noreferrer"
+    >
+        <span class="fa-stack fa-small" style="float: right">
+           <i class="fas fa-square fa-stack-2x"></i>
+           <i class="{{.iconClass}} fa-stack-1x fa-inverse"></i>
+        </span>
+    </a>
+
+    {{ end }}
+</div>
+{{ end }}
