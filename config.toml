@@ -13,6 +13,9 @@ hasCJKLanguage = false
 [outputs]
 home = ["HTML", "RSS", "Algolia"]
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
   header_image = "img/header-background.jpg"
   home = "Home"
@@ -145,3 +148,66 @@ params = ["categories", "tags"]
     startLevel = 1
   [markup.highlight]
     style = "dracula"
+
+#------------------------------------------------------------------------------
+# Languages
+#------------------------------------------------------------------------------
+
+
+[languages.en]
+languageName = 'English'
+weight = 1
+
+[languages.ru]
+languageName = 'Русский'
+weight = 2
+
+#------------------------------------------------------------------------------
+# Content mounts
+#------------------------------------------------------------------------------
+
+# EN content
+[[module.mounts]]
+source = 'content/post/en'
+target = 'content/post'
+lang = 'en'
+
+[[module.mounts]]
+source = 'content/archive/en'
+target = 'content/archive'
+lang = 'en'
+
+[[module.mounts]]
+source = 'content/about/en'
+target = 'content/about'
+lang = 'en'
+
+## RU content
+[[module.mounts]]
+source = 'content/post/ru'
+target = 'content/post'
+lang = 'ru'
+
+[[module.mounts]]
+source = 'content/archive/ru'
+target = 'content/archive'
+lang = 'ru'
+
+[[module.mounts]]
+source = 'content/about/ru'
+target = 'content/about'
+lang = 'ru'
+
+##------------------------------------------------------------------------------
+## Fill in the missing translations
+##------------------------------------------------------------------------------
+
+[[module.mounts]]
+source = 'content/post/ru'
+target = 'content/post'
+lang = 'en'
+
+[[module.mounts]]
+source = 'content/post/en'
+target = 'content/post'
+lang = 'ru'
