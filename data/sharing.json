@@ -1,0 +1,7 @@
+{
+  "vk": {
+    "icon": "vk",
+    "title": "sharing.vk",
+    "url": "http://vk.com/share.php?url=%s&title=%s"
+  }
+}
