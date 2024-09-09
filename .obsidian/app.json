@@ -1,0 +1,15 @@
+{
+  "userIgnoreFilters": [
+    "archetypes/",
+    "assets/",
+    "config/",
+    "i18n/",
+    "layouts/",
+    "resources/",
+    "static/",
+    "themes/",
+    "data/"
+  ],
+  "livePreview": false,
+  "promptDelete": false
+}
