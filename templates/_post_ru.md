@@ -16,10 +16,9 @@ if (title.startsWith("Untitled")) {
   await tp.file.move(folder + "index.ru")
 }
 -%>
-
 ---
 layout: post
-title: <% title %>
+title: "<% title %>"
 date: <% year %>-<% month %>-<% day %>
 URL: /ru/<% year %>/<% month %>/<% day %>/
 tags: 
