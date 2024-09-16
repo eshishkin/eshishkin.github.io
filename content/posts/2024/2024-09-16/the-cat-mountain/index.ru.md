@@ -3,7 +3,7 @@ layout: post
 title: "2024 - Южные ночи, день 4: Кацивели и гора Кошка"
 date: 2024-09-16
 URL: /ru/2024/09/16/the-cat-mountain
-series: ["2024 - Южные ночи"]
+series: ["2024-Южные-ночи"]
 series_order: 2
 tags: [Крым, Южные ночи]
 categories: [Путешествия]

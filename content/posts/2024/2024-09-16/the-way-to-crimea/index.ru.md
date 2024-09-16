@@ -3,7 +3,7 @@ layout: post
 title: "2024 - Южные ночи: дорога"
 date: 2024-09-16
 URL: /ru/2024/09/16/way-to-crimea
-series: ["2024 - Южные ночи"]
+series: ["2024-Южные-ночи"]
 series_order: 1
 tags: [Крым, Южные ночи]
 categories: [Путешествия]
