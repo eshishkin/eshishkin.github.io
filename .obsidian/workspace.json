@@ -35,11 +35,16 @@
             "id": "5673346254498271",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/about/index.ru.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2024/2024-10-07/there-is-no-place-like-home/index.ru.md"
+                "file": "content/about/index.ru.md"
               }
             }
           },
@@ -134,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2024/2024-10-07/there-is-no-place-like-home/index.ru.md",
+                "file": "content/about/index.ru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2024/2024-10-07/there-is-no-place-like-home/index.ru.md",
+                "file": "content/about/index.ru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,10 +181,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9eb63d194f09ba0c",
+  "active": "5673346254498271",
   "lastOpenFiles": [
-    "content/posts/2024/2024-09-16/the-way-to-crimea/index.ru.md",
     "content/posts/2024/2024-10-07/there-is-no-place-like-home/index.ru.md",
+    "content/posts/2024/2024-09-16/the-way-to-crimea/index.ru.md",
     "content/posts/2024/2024-09-18/index.ru.md",
     "content/posts/2024/2024-10-07/there-is-no-place-like-home",
     "templates/_post_en.md",
