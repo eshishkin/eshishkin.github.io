@@ -19,6 +19,7 @@ if (title.startsWith("Untitled")) {
 ---
 layout: post
 title: "<% title %>"
+aliases: "<% title %>"
 date: <% year %>-<% month %>-<% day %>
 URL: /<% year %>/<% month %>/<% day %>/
 tags: 

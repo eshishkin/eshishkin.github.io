@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9eb63d194f09ba0c",
+            "id": "13592274c6d58b44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2024/2024-10-07/there-is-no-place-like-home/index.ru.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bce36c746cb6a009",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/2024/2024-09-16/the-way-to-crimea/index.ru.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5673346254498271",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/about/index.ru.md",
+                "file": "content/posts/2024/2024-09-19/index.ru.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/about/index.ru.md"
+                "file": "content/posts/2024/2024-09-19/index.ru.md"
               }
             }
           },
@@ -139,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/about/index.ru.md",
+                "file": "content/posts/2024/2024-09-19/index.ru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/about/index.ru.md",
+                "file": "content/posts/2024/2024-09-19/index.ru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,13 +156,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5673346254498271",
+  "active": "13592274c6d58b44",
   "lastOpenFiles": [
+    "templates/_post_ru.md",
+    "templates/_post_en.md",
+    "content/posts/2024/2024-09-19/index.ru.md",
+    "content/posts/2024/2024-09-18/index.ru.md",
+    "content/posts/2024/2024-09-19",
+    "content/about/index.ru.md",
     "content/posts/2024/2024-10-07/there-is-no-place-like-home/index.ru.md",
     "content/posts/2024/2024-09-16/the-way-to-crimea/index.ru.md",
-    "content/posts/2024/2024-09-18/index.ru.md",
     "content/posts/2024/2024-10-07/there-is-no-place-like-home",
-    "templates/_post_en.md",
     "content/posts/2024/2024-10-07",
     "content/posts/2024/2024-09-16/the-cat-mountain/index.ru.md",
     "content/posts/2024/2024-09-17/index.ru.md",
@@ -199,7 +178,6 @@
     "content/posts/2024",
     "content/posts/2023/2023-09-03/index.ru.md",
     "content/posts/2023/2023-09-03/index.en.md",
-    "templates/_post_ru.md",
     "content/posts/2024/2024-09-09/index.ru.md",
     "content/posts/2024/2024-09-09/Untitled.md",
     "content/posts/2024/2024-09-09",
@@ -212,7 +190,6 @@
     "sada123.md",
     "dasd.md",
     "- qwe.md",
-    "templates",
     "content/posts/2023/2023-09-01/index.md"
   ]
 }
