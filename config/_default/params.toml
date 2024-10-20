@@ -77,7 +77,7 @@ smartTOC = true
 #  sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
   sharingLinks = [ "telegram", "linkedin", "email", "vk", "reddit", "whatsapp"]
   showZenMode = false
-  showComments = false
+  showComments = true
 
 [list]
   showHero = true
