@@ -5,6 +5,7 @@ date:            0001-01-01
 showDate:        false
 showWordCount:   false
 showReadingTime: false
+showComments:    false
 ---
 
 Приветствую! Меня зовут Шишкин Евгений. Живу в Ижевске.

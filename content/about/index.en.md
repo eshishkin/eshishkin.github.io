@@ -5,6 +5,7 @@ date:            0001-01-01
 showDate:        false
 showWordCount:   false
 showReadingTime: false
+showComments:    false
 ---
 
 My name is Eugene Shishkin. Currently, I live in Izhevsk, Russia.

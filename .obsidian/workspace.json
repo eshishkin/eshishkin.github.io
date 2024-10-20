@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2024/2024-10-20/comet/index.ru.md",
+                "file": "content/about/index.en.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2024/2024-10-20/comet/index.ru.md"
+                "file": "content/about/index.en.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2024/2024-10-20/comet/index.ru.md",
+                "file": "content/about/index.en.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2024/2024-10-20/comet/index.ru.md",
+                "file": "content/about/index.en.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,6 +158,8 @@
   },
   "active": "13592274c6d58b44",
   "lastOpenFiles": [
+    "content/about/index.ru.md",
+    "content/posts/2024/2024-10-20/comet/index.ru.md",
     "public/posts/2024/2024-10-20/comet/index.html",
     "public/posts/2024/2024-10-20/comet",
     "public/posts/2024/2024-10-20",
@@ -170,15 +172,12 @@
     "public/categories/путешествия/index.xml",
     "public/tags/комета/page/1/index.html",
     "public/tags/комета/page/1",
-    "public/tags/комета/page",
     "content/posts/2024/2024-09-17/index.ru.md",
     "content/posts/2024/2024-09-16/the-way-to-crimea/index.ru.md",
     "content/posts/2024/2024-09-16/the-cat-mountain/index.ru.md",
-    "content/posts/2024/2024-10-20/comet/index.ru.md",
     "content/posts/2023/2023-09-01/index.md",
     "templates/_post_ru.md",
     "templates/_post_en.md",
-    "content/about/index.ru.md",
     "content/posts/2024/2024-10-07/there-is-no-place-like-home/index.ru.md",
     "content/posts/2023/2023-09-03/index.ru.md",
     "content/posts/2023/2023-09-03/index.en.md",
