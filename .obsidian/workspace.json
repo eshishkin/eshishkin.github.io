@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2024/2024-09-19/index.ru.md",
+                "file": "content/posts/2024/2024-10-20/comet/index.ru.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2024/2024-09-19/index.ru.md"
+                "file": "content/posts/2024/2024-10-20/comet/index.ru.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2024/2024-09-19/index.ru.md",
+                "file": "content/posts/2024/2024-10-20/comet/index.ru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2024/2024-09-19/index.ru.md",
+                "file": "content/posts/2024/2024-10-20/comet/index.ru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,41 +146,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false
     }
   },
   "active": "13592274c6d58b44",
   "lastOpenFiles": [
+    "public/posts/2024/2024-10-20/comet/index.html",
+    "public/posts/2024/2024-10-20/comet",
+    "public/posts/2024/2024-10-20",
+    "public/posts/2024",
+    "content/posts/2024/2024-09-18/index.ru.md",
+    "public/series/2024-южные-ночи/index.xml",
+    "content/posts/2024/2024-09-19/index.ru.md",
+    "public/tags/комета/index.xml",
+    "public/categories/астрофотография/index.xml",
+    "public/categories/путешествия/index.xml",
+    "public/tags/комета/page/1/index.html",
+    "public/tags/комета/page/1",
+    "public/tags/комета/page",
+    "content/posts/2024/2024-09-17/index.ru.md",
+    "content/posts/2024/2024-09-16/the-way-to-crimea/index.ru.md",
+    "content/posts/2024/2024-09-16/the-cat-mountain/index.ru.md",
+    "content/posts/2024/2024-10-20/comet/index.ru.md",
+    "content/posts/2023/2023-09-01/index.md",
     "templates/_post_ru.md",
     "templates/_post_en.md",
-    "content/posts/2024/2024-09-19/index.ru.md",
-    "content/posts/2024/2024-09-18/index.ru.md",
-    "content/posts/2024/2024-09-19",
     "content/about/index.ru.md",
     "content/posts/2024/2024-10-07/there-is-no-place-like-home/index.ru.md",
-    "content/posts/2024/2024-09-16/the-way-to-crimea/index.ru.md",
-    "content/posts/2024/2024-10-07/there-is-no-place-like-home",
-    "content/posts/2024/2024-10-07",
-    "content/posts/2024/2024-09-16/the-cat-mountain/index.ru.md",
-    "content/posts/2024/2024-09-17/index.ru.md",
-    "content/posts/2024/2024-09-16/the-way-to-crimea",
-    "content/posts/2024/2024-09-16/the-cat-mountain",
-    "content/posts/2024/2024-09-18",
-    "content/posts/2024/2024-09-17",
-    "content/posts/2024/2024-09-16",
-    "content/posts/2024",
     "content/posts/2023/2023-09-03/index.ru.md",
     "content/posts/2023/2023-09-03/index.en.md",
     "content/posts/2024/2024-09-09/index.ru.md",
     "content/posts/2024/2024-09-09/Untitled.md",
-    "content/posts/2024/2024-09-09",
     "2023-05-16.md",
     "2024-09-09.md",
     "2024-09-Mo.md",
@@ -189,7 +192,6 @@
     "123asd.md",
     "sada123.md",
     "dasd.md",
-    "- qwe.md",
-    "content/posts/2023/2023-09-01/index.md"
+    "- qwe.md"
   ]
 }
