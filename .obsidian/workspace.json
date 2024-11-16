@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about/index.en.md",
+                "file": "content/posts/2024/2024-11-16/index.ru.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d84d24fcce2fdaab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2024/2024-09-19/index.ru.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e293f04bc4850686",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2023/2023-09-07/2023-09-07-timelapse-crimea.ru.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/about/index.en.md"
+                "file": "content/posts/2024/2024-11-16/index.ru.md"
               }
             }
           },
@@ -114,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/about/index.en.md",
+                "file": "content/posts/2024/2024-11-16/index.ru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/about/index.en.md",
+                "file": "content/posts/2024/2024-11-16/index.ru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,27 +182,32 @@
   },
   "active": "13592274c6d58b44",
   "lastOpenFiles": [
+    "public/posts/2024/2024-11-16/index.html",
+    "public/posts/2024/2024-11-16",
+    "content/posts/2024/2024-09-19/index.ru.md",
+    "content/posts/2023/2023-09-07/2023-09-07-timelapse-crimea.ru.md",
+    "content/posts/2024/2024-11-16/index.ru.md",
+    "public/ru/2024/11/16/crimea-timelapses/index.html",
+    "public/ru/2024/11/16/crimea-timelapses",
+    "public/page/2/index.html",
+    "public/page/2",
+    "public/posts/page/2/index.html",
+    "public/posts/page/2",
+    "public/ru/2024/11/16/Кацивели/index.html",
+    "public/ru/2024/11/16/Кацивели",
+    "public/ru/2024/11/16/с/index.html",
+    "content/posts/2024/2024-09-18/index.ru.md",
+    "content/posts/2023/2023-09-07/2023-09-07-timelapse-crimea.en.md",
+    "content/posts/2024/2024-10-07/there-is-no-place-like-home/index.ru.md",
+    "content/about/index.en.md",
     "content/about/index.ru.md",
     "content/posts/2024/2024-10-20/comet/index.ru.md",
-    "public/posts/2024/2024-10-20/comet/index.html",
-    "public/posts/2024/2024-10-20/comet",
-    "public/posts/2024/2024-10-20",
-    "public/posts/2024",
-    "content/posts/2024/2024-09-18/index.ru.md",
-    "public/series/2024-южные-ночи/index.xml",
-    "content/posts/2024/2024-09-19/index.ru.md",
-    "public/tags/комета/index.xml",
-    "public/categories/астрофотография/index.xml",
-    "public/categories/путешествия/index.xml",
-    "public/tags/комета/page/1/index.html",
-    "public/tags/комета/page/1",
     "content/posts/2024/2024-09-17/index.ru.md",
     "content/posts/2024/2024-09-16/the-way-to-crimea/index.ru.md",
     "content/posts/2024/2024-09-16/the-cat-mountain/index.ru.md",
     "content/posts/2023/2023-09-01/index.md",
     "templates/_post_ru.md",
     "templates/_post_en.md",
-    "content/posts/2024/2024-10-07/there-is-no-place-like-home/index.ru.md",
     "content/posts/2023/2023-09-03/index.ru.md",
     "content/posts/2023/2023-09-03/index.en.md",
     "content/posts/2024/2024-09-09/index.ru.md",
@@ -188,9 +217,6 @@
     "2024-09-Mo.md",
     "2024-24-2401.md",
     "2023-23-2305.md",
-    "123asd.md",
-    "sada123.md",
-    "dasd.md",
-    "- qwe.md"
+    "123asd.md"
   ]
 }
