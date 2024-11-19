@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2024/2024-11-16/index.ru.md",
+                "file": "content/posts/2024/2024-09-20/index.ru.md",
                 "mode": "source",
                 "source": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2024/2024-11-16/index.ru.md"
+                "file": "content/posts/2024/2024-09-20/index.ru.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2024/2024-11-16/index.ru.md",
+                "file": "content/posts/2024/2024-09-20/index.ru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2024/2024-11-16/index.ru.md",
+                "file": "content/posts/2024/2024-09-20/index.ru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,20 +182,31 @@
   },
   "active": "13592274c6d58b44",
   "lastOpenFiles": [
-    "public/posts/2024/2024-11-16/index.html",
-    "public/posts/2024/2024-11-16",
+    "public/ru/2024/09/20/Ай-Петри/index.html",
+    "public/ru/2024/09/20/Ай-Петри",
+    "public/ru/2024/09/20/Гора/index.html",
+    "public/ru/2024/09/20/Гора",
+    "public/ru/2024/09/20/8/index.html",
+    "public/ru/2024/09/20/8",
+    "public/tags/крым/page/2/index.html",
+    "public/tags/крым/page/2",
+    "public/tags/южные-ночи/page/2/index.html",
+    "public/tags/южные-ночи/page/2",
+    "public/ru/2024/09/20/crimea-day-eight/index.html",
+    "public/ru/2024/09/20/crimea-day-eight/20240920_224028.jpg",
+    "public/ru/2024/09/20/crimea-day-eight/20240920_210714.jpg",
+    "public/ru/2024/09/20/crimea-day-eight/20240920_124621.jpg",
+    "public/ru/2024/09/20/crimea-day-eight/20240920_123828.jpg",
+    "public/ru/2024/09/20/crimea-day-eight/20240920_112752.jpg",
+    "public/ru/2024/09/20/crimea-day-eight/20240920_122309.jpg",
+    "public/ru/2024/09/20/crimea-day-eight/20240920_121216.jpg",
     "content/posts/2024/2024-09-19/index.ru.md",
-    "content/posts/2023/2023-09-07/2023-09-07-timelapse-crimea.ru.md",
+    "content/posts/2024/2024-09-20/index.ru.md",
+    "content/posts/2024/2024-09-20/20240920_224028.jpg",
+    "content/posts/2024/2024-09-20/20240920_210714.jpg",
+    "content/posts/2024/2024-09-20/20240920_123828.jpg",
     "content/posts/2024/2024-11-16/index.ru.md",
-    "public/ru/2024/11/16/crimea-timelapses/index.html",
-    "public/ru/2024/11/16/crimea-timelapses",
-    "public/page/2/index.html",
-    "public/page/2",
-    "public/posts/page/2/index.html",
-    "public/posts/page/2",
-    "public/ru/2024/11/16/Кацивели/index.html",
-    "public/ru/2024/11/16/Кацивели",
-    "public/ru/2024/11/16/с/index.html",
+    "content/posts/2023/2023-09-07/2023-09-07-timelapse-crimea.ru.md",
     "content/posts/2024/2024-09-18/index.ru.md",
     "content/posts/2023/2023-09-07/2023-09-07-timelapse-crimea.en.md",
     "content/posts/2024/2024-10-07/there-is-no-place-like-home/index.ru.md",
@@ -216,7 +227,6 @@
     "2024-09-09.md",
     "2024-09-Mo.md",
     "2024-24-2401.md",
-    "2023-23-2305.md",
-    "123asd.md"
+    "2023-23-2305.md"
   ]
 }
