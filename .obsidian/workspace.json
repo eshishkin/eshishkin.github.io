@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2024/2024-09-20/index.ru.md",
+                "file": "content/posts/2024/2024-09-21/index.ru.md",
                 "mode": "source",
                 "source": true
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2024/2024-09-19/index.ru.md",
+                "file": "content/posts/2024/2024-09-20/index.ru.md",
                 "mode": "source",
                 "source": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2024/2024-09-20/index.ru.md"
+                "file": "content/posts/2024/2024-09-21/index.ru.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2024/2024-09-20/index.ru.md",
+                "file": "content/posts/2024/2024-09-21/index.ru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2024/2024-09-20/index.ru.md",
+                "file": "content/posts/2024/2024-09-21/index.ru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,29 +182,29 @@
   },
   "active": "13592274c6d58b44",
   "lastOpenFiles": [
-    "public/ru/2024/09/20/Ай-Петри/index.html",
-    "public/ru/2024/09/20/Ай-Петри",
-    "public/ru/2024/09/20/Гора/index.html",
-    "public/ru/2024/09/20/Гора",
-    "public/ru/2024/09/20/8/index.html",
-    "public/ru/2024/09/20/8",
-    "public/tags/крым/page/2/index.html",
-    "public/tags/крым/page/2",
-    "public/tags/южные-ночи/page/2/index.html",
-    "public/tags/южные-ночи/page/2",
-    "public/ru/2024/09/20/crimea-day-eight/index.html",
+    "content/posts/2024/2024-09-20/index.ru.md",
+    "content/posts/2024/2024-09-21/index.ru.md",
+    "public/ru/2024/09/21/crimea-day-nine/20240921_063022.jpg",
+    "public/ru/2024/09/21/crimea-day-nine/index.html",
+    "public/ru/2024/09/21/crimea-day-nine/20240921_063315.jpg",
+    "public/ru/2024/09/21/crimea-day-nine",
+    "public/ru/2024/09/21/-/index.html",
+    "public/ru/2024/09/21/2024/index.html",
+    "public/ru/2024/09/21/Южные/index.html",
+    "public/ru/2024/09/21/Переезд/index.html",
+    "public/ru/2024/09/21/ночи,/index.html",
+    "public/ru/2024/09/21/Научный/index.html",
+    "public/ru/2024/09/21/день/index.html",
+    "public/ru/2024/09/21/в/index.html",
+    "content/posts/2024/2024-09-21/20240921_063120.jpg",
+    "content/posts/2024/2024-09-21/20240921_063022.jpg",
+    "content/posts/2024/2024-09-21/20240921_062932.jpg",
+    "content/posts/2024/2024-09-21/20240921_063315.jpg",
+    "content/posts/2024/2024-09-19/index.ru.md",
     "public/ru/2024/09/20/crimea-day-eight/20240920_224028.jpg",
     "public/ru/2024/09/20/crimea-day-eight/20240920_210714.jpg",
     "public/ru/2024/09/20/crimea-day-eight/20240920_124621.jpg",
     "public/ru/2024/09/20/crimea-day-eight/20240920_123828.jpg",
-    "public/ru/2024/09/20/crimea-day-eight/20240920_112752.jpg",
-    "public/ru/2024/09/20/crimea-day-eight/20240920_122309.jpg",
-    "public/ru/2024/09/20/crimea-day-eight/20240920_121216.jpg",
-    "content/posts/2024/2024-09-19/index.ru.md",
-    "content/posts/2024/2024-09-20/index.ru.md",
-    "content/posts/2024/2024-09-20/20240920_224028.jpg",
-    "content/posts/2024/2024-09-20/20240920_210714.jpg",
-    "content/posts/2024/2024-09-20/20240920_123828.jpg",
     "content/posts/2024/2024-11-16/index.ru.md",
     "content/posts/2023/2023-09-07/2023-09-07-timelapse-crimea.ru.md",
     "content/posts/2024/2024-09-18/index.ru.md",
@@ -226,7 +226,6 @@
     "2023-05-16.md",
     "2024-09-09.md",
     "2024-09-Mo.md",
-    "2024-24-2401.md",
-    "2023-23-2305.md"
+    "2024-24-2401.md"
   ]
 }
