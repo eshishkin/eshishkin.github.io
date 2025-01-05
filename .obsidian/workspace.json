@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2024/2024-09-21/index.ru.md",
+                "file": "content/posts/2025/2025-01-05/index.ru.md",
                 "mode": "source",
                 "source": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2024/2024-09-21/index.ru.md"
+                "file": "content/posts/2025/2025-01-05/index.ru.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2024/2024-09-21/index.ru.md",
+                "file": "content/posts/2025/2025-01-05/index.ru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2024/2024-09-21/index.ru.md",
+                "file": "content/posts/2025/2025-01-05/index.ru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,20 +182,23 @@
   },
   "active": "13592274c6d58b44",
   "lastOpenFiles": [
+    "public/tags/книги/index.xml",
+    "public/tags/книги/page/1/index.html",
+    "public/tags/книги/page/1",
+    "public/tags/книги/page",
+    "public/tags/книги/index.html",
+    "public/tags/книги",
+    "public/tags/научная-фантастика/index.xml",
+    "public/tags/научная-фантастика/page/1/index.html",
+    "public/tags/научная-фантастика/page/1",
+    "public/tags/научная-фантастика/index.html",
+    "public/tags/научная-фантастика/page",
     "content/posts/2024/2024-09-20/index.ru.md",
+    "content/posts/2025/2025-01-05/index.ru.md",
     "content/posts/2024/2024-09-21/index.ru.md",
+    "content/posts/2024/2024-10-07/there-is-no-place-like-home/index.ru.md",
     "public/ru/2024/09/21/crimea-day-nine/20240921_063022.jpg",
-    "public/ru/2024/09/21/crimea-day-nine/index.html",
     "public/ru/2024/09/21/crimea-day-nine/20240921_063315.jpg",
-    "public/ru/2024/09/21/crimea-day-nine",
-    "public/ru/2024/09/21/-/index.html",
-    "public/ru/2024/09/21/2024/index.html",
-    "public/ru/2024/09/21/Южные/index.html",
-    "public/ru/2024/09/21/Переезд/index.html",
-    "public/ru/2024/09/21/ночи,/index.html",
-    "public/ru/2024/09/21/Научный/index.html",
-    "public/ru/2024/09/21/день/index.html",
-    "public/ru/2024/09/21/в/index.html",
     "content/posts/2024/2024-09-21/20240921_063120.jpg",
     "content/posts/2024/2024-09-21/20240921_063022.jpg",
     "content/posts/2024/2024-09-21/20240921_062932.jpg",
@@ -209,7 +212,6 @@
     "content/posts/2023/2023-09-07/2023-09-07-timelapse-crimea.ru.md",
     "content/posts/2024/2024-09-18/index.ru.md",
     "content/posts/2023/2023-09-07/2023-09-07-timelapse-crimea.en.md",
-    "content/posts/2024/2024-10-07/there-is-no-place-like-home/index.ru.md",
     "content/about/index.en.md",
     "content/about/index.ru.md",
     "content/posts/2024/2024-10-20/comet/index.ru.md",
@@ -225,7 +227,6 @@
     "content/posts/2024/2024-09-09/Untitled.md",
     "2023-05-16.md",
     "2024-09-09.md",
-    "2024-09-Mo.md",
-    "2024-24-2401.md"
+    "2024-09-Mo.md"
   ]
 }
