@@ -16,9 +16,7 @@
                 "file": "content/posts/2024/2024-09-19/index.ru.md",
                 "mode": "source",
                 "source": true
-              },
-              "icon": "lucide-file",
-              "title": "index.ru"
+              }
             }
           },
           {
@@ -27,40 +25,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2018/2018-05-20/index.ru.md",
+                "file": "content/posts/2025/2025-03-29 - openproject/index.ru.md",
                 "mode": "source",
                 "source": true
-              },
-              "icon": "lucide-file",
-              "title": "index.ru"
+              }
             }
           },
           {
-            "id": "d84d24fcce2fdaab",
+            "id": "25f7c0933d0d5817",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2024/2024-09-20/index.ru.md",
+                "file": "content/posts/2024/2024-10-20/comet/index.ru.md",
                 "mode": "source",
                 "source": true
-              },
-              "icon": "lucide-file",
-              "title": "index.ru"
-            }
-          },
-          {
-            "id": "e293f04bc4850686",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/2023/2023-09-07/2023-09-07-timelapse-crimea.ru.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2023-09-07-timelapse-crimea.ru"
+              }
             }
           }
         ],
@@ -83,11 +63,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -102,9 +79,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -112,9 +87,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -137,13 +110,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2018/2018-05-20/index.ru.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of index.ru"
+                "file": "content/posts/2025/2025-03-29 - openproject/index.ru.md"
+              }
             }
           },
           {
@@ -151,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "state": {}
             }
           },
           {
@@ -163,12 +129,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+                "useHierarchy": true
+              }
             }
           },
           {
@@ -177,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2018/2018-05-20/index.ru.md",
+                "file": "content/posts/2025/2025-03-29 - openproject/index.ru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,9 +147,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for index.ru"
+              }
             }
           },
           {
@@ -196,12 +156,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2018/2018-05-20/index.ru.md",
+                "file": "content/posts/2025/2025-03-29 - openproject/index.ru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from index.ru"
+              }
             }
           }
         ],
@@ -225,50 +183,50 @@
   },
   "active": "93f7b9f74983869a",
   "lastOpenFiles": [
-    "content/posts/2024/2024-09-19/index.ru.md",
-    "content/posts/2024/2024-09-20/index.ru.md",
-    "content/posts/2018/2018-05-20/index.ru.md",
-    "content/posts/2018/2018-05-20/P1030516.jpg",
-    "content/posts/2018/2018-05-20/P1030511.jpg",
-    "content/posts/2018/2018-05-20/P1030509.jpg",
-    "content/posts/2018/2018-05-20/P1030508.jpg",
-    "content/posts/2018/2018-05-20/P1030504.jpg",
-    "content/posts/2018/2018-05-20/P1030501.jpg",
-    "content/posts/2018/2018-05-20/P1030500.jpg",
-    "content/posts/2018/2018-05-20/P1030499.jpg",
-    "content/posts/2018/2018-05-20/P1030504.JPG",
-    "content/posts/2018/2018-05-20/P1030501.JPG",
-    "content/posts/2024/2024-09-20/20240920_224028.jpg.gakuhiy3.partial",
-    "content/posts/2024/2024-09-21/20240921_063022.jpg.mixucek5.partial",
-    "content/posts/2024/2024-09-21/20240921_063315.jpg.wanemah0.partial",
-    "content/posts/2024/2024-09-20/20240920_210714.jpg.docejak9.partial",
-    "content/posts/2024/2024-09-20/20240920_124621.jpg.xupisep5.partial",
-    "content/posts/2024/2024-09-20/20240920_123828.jpg.racemos8.partial",
-    "content/posts/2024/2024-09-20/20240920_121216.jpg.yukatut0.partial",
-    "content/posts/2024/2024-09-20/20240920_122309.jpg.jonoxir5.partial",
-    "content/posts/2024/2024-09-20/20240920_112752.jpg.feqeheq0.partial",
-    "content/posts/2024/2024-09-19/20240919_202312.jpg.yusuqeb9.partial",
-    "content/posts/2024/2024-09-21/index.ru.md",
-    "content/posts/2024/2024-10-20/comet/index.ru.md",
-    "content/posts/2025/2025-01-05/index.ru.md",
+    "content/posts/2024/2024-09-16/the-way-to-crimea/index.ru.md",
     "content/posts/2024/2024-10-07/there-is-no-place-like-home/index.ru.md",
-    "content/posts/2024/2024-11-16/index.ru.md",
+    "content/posts/2025/2025-03-29 - openproject/index.ru.md",
+    "public/tags/openproject/page/1/index.html",
+    "public/tags/openproject/page/1",
+    "public/tags/openproject/index.xml",
+    "public/tags/openproject/page",
+    "public/tags/openproject/index.html",
+    "public/tags/openproject",
+    "public/tags/импортозамещение/page/1/index.html",
+    "public/tags/импортозамещение/page/1",
+    "public/tags/импортозамещение/index.html",
+    "public/tags/импортозамещение/page",
+    "public/ru/2018/05/20/handmade-auto-guider-for-eq-mounts/P1030516.jpg",
+    "public/ru/2018/05/20/handmade-auto-guider-for-eq-mounts/P1030511.jpg",
+    "public/ru/2018/05/20/handmade-auto-guider-for-eq-mounts/P1030509.jpg",
+    "public/ru/2018/05/20/handmade-auto-guider-for-eq-mounts/P1030508.jpg",
+    "public/ru/2018/05/20/handmade-auto-guider-for-eq-mounts/P1030504.jpg",
+    "public/ru/2018/05/20/handmade-auto-guider-for-eq-mounts/P1030501.jpg",
+    "public/ru/2018/05/20/handmade-auto-guider-for-eq-mounts/P1030500.jpg",
+    "public/ru/2018/05/20/handmade-auto-guider-for-eq-mounts/P1030499.jpg",
+    "public/ru/2025/03/29/20250329 - тестовая доска.jpg",
+    "content/posts/2025/2025-03-29 - openproject/20250329 - тестовая доска.jpg",
+    "content/posts/2024/2024-10-20/comet/index.ru.md",
     "content/posts/2023/2023-09-07/2023-09-07-timelapse-crimea.ru.md",
+    "content/posts/2024/2024-09-20/index.ru.md",
+    "content/posts/2024/2024-09-19/index.ru.md",
     "content/posts/2024/2024-09-18/index.ru.md",
+    "content/posts/2023/2023-09-01/index.md",
+    "content/posts/2018/2018-05-20/index.ru.md",
+    "content/posts/2024/2024-11-16/index.ru.md",
+    "content/posts/2024/2024-09-21/index.ru.md",
+    "content/posts/2025/2025-01-05/index.ru.md",
     "content/posts/2023/2023-09-07/2023-09-07-timelapse-crimea.en.md",
     "content/about/index.en.md",
     "content/about/index.ru.md",
     "content/posts/2024/2024-09-17/index.ru.md",
-    "content/posts/2024/2024-09-16/the-way-to-crimea/index.ru.md",
     "content/posts/2024/2024-09-16/the-cat-mountain/index.ru.md",
-    "content/posts/2023/2023-09-01/index.md",
     "templates/_post_ru.md",
     "templates/_post_en.md",
     "content/posts/2023/2023-09-03/index.ru.md",
     "content/posts/2023/2023-09-03/index.en.md",
     "content/posts/2024/2024-09-09/index.ru.md",
     "content/posts/2024/2024-09-09/Untitled.md",
-    "2023-05-16.md",
-    "2024-09-09.md"
+    "2023-05-16.md"
   ]
 }
