@@ -13,7 +13,7 @@ title = "Eugene Shishkin | Personal Blog"
   description = "A blog about life, software development, astronomy and everything"
   copyright = "123 Copy, _right?_ :thinking_face:"
 
-[author]
+[params.author]
   name = "Eugene Shishkin"
   image = "img/me.jpg"
   headline = "Software Developer, Photographer, Astronomer"
