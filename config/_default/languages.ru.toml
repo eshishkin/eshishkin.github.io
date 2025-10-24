@@ -11,7 +11,7 @@ title = "Eugene Shishkin | Personal Blog"
 #  logo = "img/header-background.jpg"
 #  secondaryLogo = "img/secondary-logo.png"
   description = "A blog about life, software development, astronomy and everything"
-  copyright = "123 Copy, _right?_ :thinking_face:"
+  copyright = "Eugene Shishkin"
 
 [params.author]
   name = "Eugene Shishkin"
