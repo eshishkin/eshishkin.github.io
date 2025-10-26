@@ -3,7 +3,6 @@ layout: post
 title: "Пятый Крымский Поход"
 aliases: "Пятый Крымский Поход"
 date: 2025-10-24
-draft: true
 URL: /ru/2025/10/24/crimea
 tags: [Крым, Южные ночи]
 categories: [Путешествия]
