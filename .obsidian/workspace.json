@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "13592274c6d58b44",
+            "id": "ea544495cc511482",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2024/2024-09-19/index.ru.md",
+                "file": "content/posts/2025/2025-12-08/index.ru.md",
                 "mode": "source",
                 "source": true
               },
@@ -22,26 +22,12 @@
             }
           },
           {
-            "id": "93f7b9f74983869a",
+            "id": "00df68a6f6d2e26f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2025/2025-08-09/index.ru.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "index.ru"
-            }
-          },
-          {
-            "id": "25f7c0933d0d5817",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/2024/2024-10-20/comet/index.ru.md",
+                "file": "content/posts/2025/2025-10-24/index.ru.md",
                 "mode": "source",
                 "source": true
               },
@@ -49,8 +35,7 @@
               "title": "index.ru"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "a47acd478881eeda",
@@ -123,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2024/2024-10-20/comet/index.ru.md",
+                "file": "content/posts/2025/2025-12-08/index.ru.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,6 +185,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -209,52 +196,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "93f7b9f74983869a",
+  "active": "b2193b30fbe6a5e3",
   "lastOpenFiles": [
-    "content/posts/2024/2024-10-20/comet/index.ru.md",
+    "public/css/carousel-carousel-acdd365898a4809adbec8a3f80e0c351-1765060403172435600.min.8a518d14d5153f0bcab2ae55201a37fb937e511ea73cdce9227adb010ef4954a3715f03f2c8dff5427d4b663d6ace25eb4b60fdea91aa0c8b03ae749b733dcdf.css",
+    "content/posts/2025/2025-12-08/2025-09-21 - NGC 2024 (SW72, ASI533MC, AZEQ-6, 90x20).png",
+    "public/css/carousel-carousel-acdd365898a4809adbec8a3f80e0c351-1765060401172435800.min.3e124730162d5221c3cfba18e8bffa1444bca1172d53234f09be61556327210a721543fe9a774a9916e9faaf930265d74fb1b409542d1a3c15356e30054d7dbd.css",
+    "content/posts/2025/2025-12-08/2025-09-21 - M42 (SW72, ASI533MC, AZEQ-6, 90x1).png",
+    "content/posts/2025/2025-10-24/index.ru.md",
+    "content/posts/2025/2025-12-08/index.ru.md",
+    "public/ru/2025/12/08/astro/ngc2023/index.html",
+    "public/ru/2025/12/08/astro/ngc2023",
+    "public/ru/2025/12/08/astro",
+    "public/ru/2025/12/08",
+    "public/css/carousel-carousel-acdd365898a4809adbec8a3f80e0c351-1765057670161808500.min.51d44830213346a2bd4a94b53846c481ed6ab8715462e6bf51ce41fe8fd5b6d6fddb4e383b90583f6883f7fe37b53bb954e524ac55dd4fe8bda11e7edf31dfa5.css",
+    "content/posts/2025/2025-12-07/index.ru.md",
+    "content/posts/2025/2025-12-08",
+    "public/css/carousel-carousel-acdd365898a4809adbec8a3f80e0c351-1765057538599969100.min.7faa550e44fdd0ca96d5af8e39cf1c2b5b7d44668cf9f75ee123946cb69343506d0ede251d4281325f14bd2095a8655cfb8e5c600f6ee852e476d1b911bd36a8.css",
+    "content/posts/2025/2025-12-04/index.ru.md",
     "content/posts/2025/2025-08-09/index.ru.md",
-    "content/posts/2024/2024-09-19/index.ru.md",
-    "content/posts/2025/2025-03-29 - openproject/index.ru.md",
-    "content/posts/2025/2025-08-09",
-    "content/posts/2024/2024-09-16/the-way-to-crimea/index.ru.md",
-    "content/posts/2024/2024-10-07/there-is-no-place-like-home/index.ru.md",
-    "public/tags/openproject/page/1/index.html",
-    "public/tags/openproject/page/1",
-    "public/tags/openproject/index.xml",
-    "public/tags/openproject/page",
-    "public/tags/openproject/index.html",
-    "public/tags/openproject",
-    "public/tags/импортозамещение/page/1/index.html",
-    "public/tags/импортозамещение/page/1",
-    "public/tags/импортозамещение/index.html",
-    "public/ru/2018/05/20/handmade-auto-guider-for-eq-mounts/P1030516.jpg",
-    "public/ru/2018/05/20/handmade-auto-guider-for-eq-mounts/P1030511.jpg",
-    "public/ru/2018/05/20/handmade-auto-guider-for-eq-mounts/P1030509.jpg",
-    "public/ru/2018/05/20/handmade-auto-guider-for-eq-mounts/P1030508.jpg",
-    "public/ru/2018/05/20/handmade-auto-guider-for-eq-mounts/P1030504.jpg",
-    "public/ru/2018/05/20/handmade-auto-guider-for-eq-mounts/P1030501.jpg",
-    "public/ru/2018/05/20/handmade-auto-guider-for-eq-mounts/P1030500.jpg",
-    "public/ru/2018/05/20/handmade-auto-guider-for-eq-mounts/P1030499.jpg",
-    "public/ru/2025/03/29/20250329 - тестовая доска.jpg",
-    "content/posts/2025/2025-03-29 - openproject/20250329 - тестовая доска.jpg",
-    "content/posts/2023/2023-09-07/2023-09-07-timelapse-crimea.ru.md",
-    "content/posts/2024/2024-09-20/index.ru.md",
-    "content/posts/2024/2024-09-18/index.ru.md",
-    "content/posts/2023/2023-09-01/index.md",
-    "content/posts/2018/2018-05-20/index.ru.md",
-    "content/posts/2024/2024-11-16/index.ru.md",
+    "public/ru/2025/12/06/astro/m33/2025-09-20 - M33 without stars (SW72, ASI533MC, AZEQ-6, 120x20).png",
+    "content/posts/2025/2025-12-07/2025-09-20 - M33 without stars (SW72, ASI533MC, AZEQ-6, 120x20).png",
+    "public/css/carousel-carousel-a087db4ac311c3ff44c344240896f736-1765056799444443300.min.f3982cbd8417b01c44db7deabdb8adfaa3eff665172d1bd2bf00a628bd2cb71346dfee296bc16ab0811ec316e1d64f57b84e09da2ed2910664738f4510905a3a.css",
+    "public/css/carousel-carousel-acdd365898a4809adbec8a3f80e0c351-1765056799110623700.min.50ba0e65c5e78a48698f1ab86c55c003a4ade6bc434f0fc51420a7bb7af936ed17d4317331ee3e38ecb86cae859d6331d2a64a01b8e911368798f22c24ad3394.css",
+    "content/posts/2024/2024-10-20/comet/index.ru.md",
+    "public/ru/2025/12/04/astro/M45/20250916 - M45 (SW72, ASI533MC, AZEQ-6, 90x10).png",
+    "content/posts/2025/2025-12-04/20250916 - M45 (SW72, ASI533MC, AZEQ-6, 90x10).png",
+    "public/ru/2025/12/04/astro/M45/2025-09-20 - M45 (SW72, ASI533MC, AZEQ-6, 90x40).png",
+    "content/posts/2025/2025-12-04/2025-09-20 - M45 (SW72, ASI533MC, AZEQ-6, 90x40).png",
     "content/posts/2024/2024-09-21/index.ru.md",
-    "content/posts/2025/2025-01-05/index.ru.md",
-    "content/posts/2023/2023-09-07/2023-09-07-timelapse-crimea.en.md",
-    "content/about/index.en.md",
-    "content/about/index.ru.md",
-    "content/posts/2024/2024-09-17/index.ru.md",
-    "content/posts/2024/2024-09-16/the-cat-mountain/index.ru.md",
-    "templates/_post_ru.md",
-    "templates/_post_en.md",
-    "content/posts/2023/2023-09-03/index.ru.md",
-    "content/posts/2023/2023-09-03/index.en.md",
-    "content/posts/2024/2024-09-09/index.ru.md",
-    "content/posts/2024/2024-09-09/Untitled.md"
+    "public/20251002-112340_6396245914954179937.jpg",
+    "public/20251002-112422_12513730704087988902.jpg",
+    "themes/blowfish/exampleSite/content/users/9f984d61b6086212e76291d2698d0498/index.md",
+    "themes/blowfish/exampleSite/content/users/9f984d61b6086212e76291d2698d0498/index.ja.md",
+    "themes/blowfish/exampleSite/content/users/9f984d61b6086212e76291d2698d0498/index.zh-cn.md",
+    "themes/blowfish/exampleSite/content/users/9f984d61b6086212e76291d2698d0498/index.it.md",
+    "themes/blowfish/exampleSite/content/users/27cc5a091bef86a9b5dcfa2c035308ed/index.md",
+    "themes/blowfish/exampleSite/content/users/27cc5a091bef86a9b5dcfa2c035308ed/index.zh-cn.md",
+    "themes/blowfish/exampleSite/content/users/27cc5a091bef86a9b5dcfa2c035308ed/index.ja.md",
+    "themes/blowfish/exampleSite/content/users/27cc5a091bef86a9b5dcfa2c035308ed/index.it.md",
+    "themes/blowfish/exampleSite/content/users/bfe9e12b443e96f40b05b584166636f5/index.zh-cn.md",
+    "themes/blowfish/exampleSite/content/users/bfe9e12b443e96f40b05b584166636f5/index.ja.md",
+    "themes/blowfish/exampleSite/content/users/bfe9e12b443e96f40b05b584166636f5/index.md",
+    "themes/blowfish/exampleSite/content/users/bfe9e12b443e96f40b05b584166636f5/index.it.md",
+    "themes/blowfish/exampleSite/content/users/9901f5943260b32ac3002c1002408f19/index.zh-cn.md",
+    "themes/blowfish/exampleSite/content/users/9901f5943260b32ac3002c1002408f19/index.md",
+    "themes/blowfish/exampleSite/content/users/9901f5943260b32ac3002c1002408f19/index.ja.md",
+    "themes/blowfish/exampleSite/content/users/9901f5943260b32ac3002c1002408f19/index.it.md",
+    "themes/blowfish/exampleSite/content/users/8fc3ba43309eb4210c5da59847dab5ac/index.md",
+    "themes/blowfish/exampleSite/content/users/8fc3ba43309eb4210c5da59847dab5ac/index.ja.md"
   ]
 }

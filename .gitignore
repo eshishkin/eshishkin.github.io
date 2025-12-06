@@ -3,3 +3,6 @@
 resources
 public
 *.jpg
+*.jpeg
+*.png
+*.tiff
