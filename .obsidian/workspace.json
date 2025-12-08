@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2025/2025-12-07/index.ru.md",
+                "file": "content/posts/2025/2025-12-10/index.ru.md",
                 "mode": "source",
                 "source": true
               },
@@ -48,8 +48,23 @@
               "icon": "lucide-file",
               "title": "index.ru"
             }
+          },
+          {
+            "id": "b6fb560cd9cf1983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2025/2025-12-08/index.ru.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index.ru"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -210,24 +225,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ea544495cc511482",
+  "active": "b6fb560cd9cf1983",
   "lastOpenFiles": [
-    "content/posts/2025/2025-12-07/index.ru.md",
-    "content/posts/2025/2025-12-08/index.ru.md",
+    "content/posts/2025/2025-12-10/index.ru.md",
     "content/posts/2025/2025-12-09/index.ru.md",
-    "public/page/3/index.html",
-    "public/page/3",
-    "public/ru/2025/12/09/astro/ngc7023/index.html",
-    "public/ru/2025/12/09/astro/ngc7023",
-    "public/ru/2025/12/09/astro",
-    "public/ru/2025/12/09",
-    "public/css/carousel-carousel-acdd365898a4809adbec8a3f80e0c351-1765141801270203600.min.9ce8cbaa875d0c6ceaf19a32d63f645f17a12998cdb4e08d5573842bf1364bb5b492b222ec6da6552a7f0397dfecfaf8123061da3e3d6fd8896c05d4cab47cab.css",
+    "content/posts/2025/2025-12-08/index.ru.md",
+    "public/css/carousel-carousel-a087db4ac311c3ff44c344240896f736-1765229746632431700.min.41a768f358c200ba96a12e6f5848b0cd15a23108e70fc3435ef2de46e83e22bd76cf17531066268f1c06747276d01ca5f1b67e8ac8b3d278b0178fd17bbb49be.css",
+    "public/ru/2025/12/10/astro/ngc281/index.html",
+    "public/ru/2025/12/10/astro/ngc281",
+    "public/css/carousel-carousel-acdd365898a4809adbec8a3f80e0c351-1765229746254199300.min.cb3dffa8ac06efb90daa17b83c0bb43440bf5fac831a60fc5a55112ea4e9e1c0761953900770c895801a3fec145f0562fbf21e81881c275bcd512ef119827216.css",
+    "public/ru/2025/12/10/astro/281/index.html",
+    "public/ru/2025/12/10/astro/281",
+    "public/ru/2025/12/10/astro/NGC/index.html",
+    "public/ru/2025/12/10/astro/NGC",
+    "public/ru/2025/12/10/astro/-/index.html",
+    "public/ru/2025/12/10/astro/-",
+    "public/ru/2025/12/08/astro/ngc2023/2025-09-21 - NGC 2024 (SW72, ASI533MC, AZEQ-6, 90x20).png",
+    "public/ru/2025/12/08/astro/ngc2023/2025-09-21 - M42 (SW72, ASI533MC, AZEQ-6, 90x1).png",
+    "content/posts/2025/2025-12-07/index.ru.md",
+    "content/posts/2025/2025-12-09/2025-09-21 - NGC 7023 (SW72, ASI533MC, AZEQ-6, 90x50).png",
+    "content/posts/2025/2025-12-09/2025-09-16 - NGC 7023 (SW72, ASI533MC, AZEQ-6, 90x50).png",
     "content/posts/2025/2025-10-24/index.ru.md",
-    "Untitled.md",
-    "content/posts/2025/2025-12-09",
-    "public/css/carousel-carousel-a087db4ac311c3ff44c344240896f736-1765140470374662600.min.4f9481cf11fc91e1d1fae163c13abc2b19cc52e1ca10ef0f61ee69b8b307b67b0611e785daab89dd4c70a56c918fe7fd9fab316b308ef5b283705095e5db69ec.css",
     "public/ru/2025/12/07/astro/m33/2025-09-20 - M33 without stars (SW72, ASI533MC, AZEQ-6, 120x20).png",
-    "public/css/carousel-carousel-acdd365898a4809adbec8a3f80e0c351-1765140469327354300.min.91068aca2120834a05d1dca08293b0dbe5143392790d55a42f670b35ffbbb341eb4b4b36a3e2b99c5ce882d31cdfe410bb2fc0051fd301e974c3d05a1d3842c1.css",
     "content/posts/2025/2025-12-08/2025-09-21 - NGC 2024 (SW72, ASI533MC, AZEQ-6, 90x20).png",
     "content/posts/2025/2025-12-08/2025-09-21 - M42 (SW72, ASI533MC, AZEQ-6, 90x1).png",
     "content/posts/2025/2025-12-04/index.ru.md",
@@ -236,11 +255,7 @@
     "content/posts/2025/2025-12-07/2025-09-20 - M33 without stars (SW72, ASI533MC, AZEQ-6, 120x20).png",
     "content/posts/2024/2024-10-20/comet/index.ru.md",
     "public/ru/2025/12/04/astro/M45/20250916 - M45 (SW72, ASI533MC, AZEQ-6, 90x10).png",
-    "content/posts/2025/2025-12-04/20250916 - M45 (SW72, ASI533MC, AZEQ-6, 90x10).png",
-    "public/ru/2025/12/04/astro/M45/2025-09-20 - M45 (SW72, ASI533MC, AZEQ-6, 90x40).png",
-    "content/posts/2025/2025-12-04/2025-09-20 - M45 (SW72, ASI533MC, AZEQ-6, 90x40).png",
     "content/posts/2024/2024-09-21/index.ru.md",
-    "public/20251002-112340_6396245914954179937.jpg",
     "themes/blowfish/exampleSite/content/users/9f984d61b6086212e76291d2698d0498/index.md",
     "themes/blowfish/exampleSite/content/users/9f984d61b6086212e76291d2698d0498/index.ja.md",
     "themes/blowfish/exampleSite/content/users/9f984d61b6086212e76291d2698d0498/index.zh-cn.md",
