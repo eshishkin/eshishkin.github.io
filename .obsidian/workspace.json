@@ -36,20 +36,6 @@
             }
           },
           {
-            "id": "00df68a6f6d2e26f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/2025/2025-12-08/index.ru.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "index.ru"
-            }
-          },
-          {
             "id": "b6fb560cd9cf1983",
             "type": "leaf",
             "state": {
@@ -64,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -227,34 +213,38 @@
   },
   "active": "b6fb560cd9cf1983",
   "lastOpenFiles": [
+    "public/css/carousel-carousel-acdd365898a4809adbec8a3f80e0c351-1765662376318263400.min.25557d56eaa6149329de0f615d77613e8bf9cbcea07c0d103703b265387240c8cc43230ae60dd5adac5f5b6bba7f70804855ae23285eb85cd913fdc4ddc70984.css",
+    "content/posts/2025/2025-12-13/2025-09-27 - NGC 6992 (SW72, ASI533MC, AZEQ-6, 90x20).png",
+    "content/posts/2025/2025-12-13/index.ru.md",
+    "content/posts/2025/2025-12-13/2025-09-22 - NGC 6960 (SW72, ASI533MC, AZEQ-6, 90x34).png",
+    "content/posts/2025/2025-12-13",
+    "content/posts/2025/2025-12-14/index.ru.md",
+    "public/ru/2025/12/13/astro/veil-nebula/index.html",
+    "public/ru/2025/12/13/astro/veil-nebula",
+    "public/ru/2025/12/13/astro",
+    "public/ru/2025/12/13",
+    "public/css/carousel-carousel-acdd365898a4809adbec8a3f80e0c351-1765661289314289700.min.721fa331f3b66c28842101b048417010f3d013dbb3d8d78d490bb0f7d89578cbe7c6ae306fb3309348ae66b2fa84fe91e8a686cbd1906e62a4118b6f6d4e33ff.css",
+    "public/ru/2025/12/14/astro/veil-nebula/2025-09-27 - NGC 6992 (SW72, ASI533MC, AZEQ-6, 90x20).png",
+    "content/posts/2025/2025-12-14/2025-09-27 - NGC 6992 (SW72, ASI533MC, AZEQ-6, 90x20).png",
+    "public/css/carousel-carousel-acdd365898a4809adbec8a3f80e0c351-1765661287309250700.min.6070274f8021a9addfd412d5ab63d3cf9a4ebda6b8214529fd88f5f54706c13db286acab5a18d75cd490a23dfffa0b56c47cf806dd9a066b02d1fd26aa2d5f1b.css",
+    "public/ru/2025/12/14/astro/veil-nebula/2025-09-22 - NGC 6960 (SW72, ASI533MC, AZEQ-6, 90x34).png",
+    "content/posts/2025/2025-12-14/2025-09-22 - NGC 6960 (SW72, ASI533MC, AZEQ-6, 90x34).png",
     "content/posts/2025/2025-12-10/index.ru.md",
-    "content/posts/2025/2025-12-09/index.ru.md",
     "content/posts/2025/2025-12-08/index.ru.md",
-    "public/css/carousel-carousel-a087db4ac311c3ff44c344240896f736-1765229746632431700.min.41a768f358c200ba96a12e6f5848b0cd15a23108e70fc3435ef2de46e83e22bd76cf17531066268f1c06747276d01ca5f1b67e8ac8b3d278b0178fd17bbb49be.css",
-    "public/ru/2025/12/10/astro/ngc281/index.html",
-    "public/ru/2025/12/10/astro/ngc281",
-    "public/css/carousel-carousel-acdd365898a4809adbec8a3f80e0c351-1765229746254199300.min.cb3dffa8ac06efb90daa17b83c0bb43440bf5fac831a60fc5a55112ea4e9e1c0761953900770c895801a3fec145f0562fbf21e81881c275bcd512ef119827216.css",
-    "public/ru/2025/12/10/astro/281/index.html",
-    "public/ru/2025/12/10/astro/281",
-    "public/ru/2025/12/10/astro/NGC/index.html",
-    "public/ru/2025/12/10/astro/NGC",
-    "public/ru/2025/12/10/astro/-/index.html",
-    "public/ru/2025/12/10/astro/-",
+    "public/ru/2025/12/14/astro/veil-nebula/index.html",
+    "public/ru/2025/12/14/astro/veil-nebula",
+    "public/ru/2025/12/14/astro",
+    "public/ru/2025/12/09/astro/ngc7023/2025-09-21 - NGC 7023 (SW72, ASI533MC, AZEQ-6, 90x50).png",
+    "public/ru/2025/12/10/astro/ngc281/2025-09-22 - NGC 281 (SW72, ASI533MC, AZEQ-6, 90x65).png",
+    "Untitled.md",
+    "content/posts/2025/2025-12-10/2025-09-22 - NGC 281 (SW72, ASI533MC, AZEQ-6, 90x65).png",
+    "content/posts/2025/2025-12-09/index.ru.md",
     "public/ru/2025/12/08/astro/ngc2023/2025-09-21 - NGC 2024 (SW72, ASI533MC, AZEQ-6, 90x20).png",
-    "public/ru/2025/12/08/astro/ngc2023/2025-09-21 - M42 (SW72, ASI533MC, AZEQ-6, 90x1).png",
     "content/posts/2025/2025-12-07/index.ru.md",
-    "content/posts/2025/2025-12-09/2025-09-21 - NGC 7023 (SW72, ASI533MC, AZEQ-6, 90x50).png",
-    "content/posts/2025/2025-12-09/2025-09-16 - NGC 7023 (SW72, ASI533MC, AZEQ-6, 90x50).png",
     "content/posts/2025/2025-10-24/index.ru.md",
-    "public/ru/2025/12/07/astro/m33/2025-09-20 - M33 without stars (SW72, ASI533MC, AZEQ-6, 120x20).png",
-    "content/posts/2025/2025-12-08/2025-09-21 - NGC 2024 (SW72, ASI533MC, AZEQ-6, 90x20).png",
-    "content/posts/2025/2025-12-08/2025-09-21 - M42 (SW72, ASI533MC, AZEQ-6, 90x1).png",
     "content/posts/2025/2025-12-04/index.ru.md",
     "content/posts/2025/2025-08-09/index.ru.md",
-    "public/ru/2025/12/06/astro/m33/2025-09-20 - M33 without stars (SW72, ASI533MC, AZEQ-6, 120x20).png",
-    "content/posts/2025/2025-12-07/2025-09-20 - M33 without stars (SW72, ASI533MC, AZEQ-6, 120x20).png",
     "content/posts/2024/2024-10-20/comet/index.ru.md",
-    "public/ru/2025/12/04/astro/M45/20250916 - M45 (SW72, ASI533MC, AZEQ-6, 90x10).png",
     "content/posts/2024/2024-09-21/index.ru.md",
     "themes/blowfish/exampleSite/content/users/9f984d61b6086212e76291d2698d0498/index.md",
     "themes/blowfish/exampleSite/content/users/9f984d61b6086212e76291d2698d0498/index.ja.md",
@@ -268,9 +258,6 @@
     "themes/blowfish/exampleSite/content/users/bfe9e12b443e96f40b05b584166636f5/index.ja.md",
     "themes/blowfish/exampleSite/content/users/bfe9e12b443e96f40b05b584166636f5/index.md",
     "themes/blowfish/exampleSite/content/users/bfe9e12b443e96f40b05b584166636f5/index.it.md",
-    "themes/blowfish/exampleSite/content/users/9901f5943260b32ac3002c1002408f19/index.zh-cn.md",
-    "themes/blowfish/exampleSite/content/users/9901f5943260b32ac3002c1002408f19/index.md",
-    "themes/blowfish/exampleSite/content/users/9901f5943260b32ac3002c1002408f19/index.ja.md",
-    "themes/blowfish/exampleSite/content/users/9901f5943260b32ac3002c1002408f19/index.it.md"
+    "themes/blowfish/exampleSite/content/users/9901f5943260b32ac3002c1002408f19/index.zh-cn.md"
   ]
 }

@@ -36,7 +36,7 @@ series_order: 5
 Техническая информация по [снимку](https://deepskyhosting.com/EorUNIO). Общее время экспозиции составило **1 час и 38 минут**
 
 ```
-NGC 281 - ПАКМАН
+NGC 281 - Пакман
 
 Телескоп, объектив: Sky-Watcher 72ED Evostar
 Камера: ZWO ASI533MC Pro
