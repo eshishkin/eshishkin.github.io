@@ -24,8 +24,8 @@ categories: [Путешествия]
 Сам полёт не интересный и прошел за прослушиванием "Дюны". Однако пару кадров заката и облаков удалось сделать.
 
 {{< gallery >}}
-  <img src="https://images2.imgbox.com/66/19/apfGSbwr_o.jpg" class="grid-w50 md:grid-w50" />
-  <img src="https://images2.imgbox.com/62/75/oa5JHS3v_o.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i6.imageban.ru/out/2026/06/08/611b4ca1d620ca0462dac4625afae675.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i1.imageban.ru/out/2026/06/08/622f88e2f719f2205bb9133602538fcb.jpg" class="grid-w50 md:grid-w50" />
 {{< /gallery >}}
 
 В Калининград прилетели в 21 час по местному времени (-2 час к Ижевску). Заселились в отель "Константа", что не далеко от края города. Закупились продуктами в Eurospar (он тут еще есть) и немного посидели, отмечая приезд. Как-то так.
@@ -37,12 +37,12 @@ categories: [Путешествия]
 Утром была экскурсия от местного жителя по Калининграду, острову Канта (Кнайпхоф), набережным. Прошлись от рыбацкой деревни, до острова, посмотрели на собор, зашли на на могилу Канта, потом по набережной до здания биржи. И под конец вышли к знаменитому музею мирового океана.
 
 {{< gallery >}}
-  <img src="https://images2.imgbox.com/43/cd/FmKY403K_o.jpg" class="grid-w100 md:grid-w100" />
-   <img src="https://images2.imgbox.com/4d/34/Io2KshKT_o.jpg" class="grid-w100 md:grid-w100" />
-  <img src="https://images2.imgbox.com/09/7e/v7Hmu6Ps_o.jpg" class="grid-w50 md:grid-w50" />
- <img src="https://images2.imgbox.com/5c/de/pfFLiz5y_o.jpg" class="grid-w50 md:grid-w50" />
- <img src="https://images2.imgbox.com/5b/68/0Ym804Qd_o.jpg" class="grid-w50 md:grid-w50" />
- <img src="https://images2.imgbox.com/46/20/W57mLJwY_o.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i8.imageban.ru/out/2026/06/08/467816431ad3189040ba68997877c25f.jpg" class="grid-w100 md:grid-w100" />
+   <img src="https://i6.imageban.ru/out/2026/06/08/bfef27db2fd1f47222861a356109f4bd.jpg" class="grid-w100 md:grid-w100" />
+  <img src="https://i6.imageban.ru/out/2026/06/08/6697007afcfe12a1577944cc428b5bde.jpg" class="grid-w50 md:grid-w50" />
+ <img src="https://i7.imageban.ru/out/2026/06/08/34968f724ec4cc003173264f35e96299.jpg" class="grid-w50 md:grid-w50" />
+ <img src="https://i8.imageban.ru/out/2026/06/08/240e7ac4d1fd514ced84d2fdc64e45fb.jpg" class="grid-w50 md:grid-w50" />
+ <img src="https://i3.imageban.ru/out/2026/06/08/32026484b5c114dfe25a7ee224758d4d.jpg" class="grid-w50 md:grid-w50" />
 {{< /gallery >}}
 
 После экскурсии обменялись контактами и решили пройти квест по собиранию коллекции хомлинов. Хомлины - это семья из семи миниатюрных бронзовых фигурок, ставшая одной из главных визитных карточек и символов Калининграда. Согласно городской легенде, хомлины -  это добрые мифические существа, похожие на домовых. Они живут бок о бок с людьми, тайно хранят домашний уют, а по ночам делают украшения из балтийского янтаря. Фигурки очень похожи на наших "Ижиков". 
@@ -52,13 +52,13 @@ categories: [Путешествия]
 Представляю мою коллекцию. В порядке обхода
 
 {{< gallery >}}
-  <img src="https://images2.imgbox.com/dc/4e/wrBgACBA_o.jpg" class="grid-w50 md:grid-w50" />
-   <img src="https://images2.imgbox.com/74/f4/rKNkNYMo_o.jpg" class="grid-w50 md:grid-w50" />
-  <img src="https://images2.imgbox.com/4b/8a/6A0jCiVd_o.jpg" class="grid-w50 md:grid-w50" />
- <img src="https://images2.imgbox.com/89/d8/Z1YJ4Ulx_o.jpg" class="grid-w50 md:grid-w50" />
- <img src="https://images2.imgbox.com/08/b6/nxBjg9qo_o.jpg" class="grid-w50 md:grid-w50" />
- <img src="https://images2.imgbox.com/f6/67/CEHaabA9_o.jpg" class="grid-w100 md:grid-w100" />
-  <img src="https://images2.imgbox.com/bc/24/9NTv1GYG_o.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i3.imageban.ru/out/2026/06/08/7c0a88a6cd1d05a33658359078b484dc.jpg" class="grid-w50 md:grid-w50" />
+   <img src="https://i6.imageban.ru/out/2026/06/08/93dadabe8ccec4ed526b154a3bdd05d5.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i8.imageban.ru/out/2026/06/08/0db4ef375987abeaa51af3493239bc2c.jpg" class="grid-w50 md:grid-w50" />
+ <img src="https://i8.imageban.ru/out/2026/06/08/a10739c6f7ab4fc71524b9dce46c7c99.jpg" class="grid-w50 md:grid-w50" />
+ <img src="https://i7.imageban.ru/out/2026/06/08/9de0a6b24bcd3d9f464a19ae996e29f8.jpg" class="grid-w50 md:grid-w50" />
+ <img src="https://i3.imageban.ru/out/2026/06/08/8602c7ef53b9be8a13c18a633f89a64b.jpg" class="grid-w100 md:grid-w100" />
+  <img src="https://i6.imageban.ru/out/2026/06/08/46649581e6b193f24bb4832067f7faba.jpg" class="grid-w50 md:grid-w50" />
 {{< /gallery >}}
 
 Но не только хомлины нам встретили на пути. Зашли также в пару музеев (музей янтаря), много сувениров накупили. Успели покататься на лодке вокруг острова Канта.
@@ -75,25 +75,25 @@ categories: [Путешествия]
 
 
 {{< gallery >}}
-  <img src="https://images2.imgbox.com/ce/a1/yGDyGE4R_o.jpg" class="grid-w100 md:grid-w100" />
-   <img src="https://images2.imgbox.com/da/40/Mc6ls4rg_o.jpg" class="grid-w50 md:grid-w50" />
-  <img src="https://images2.imgbox.com/89/77/WjmakALL_o.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i1.imageban.ru/out/2026/06/08/29044221f0685aa5cf81e0c24564b8ed.jpg" class="grid-w100 md:grid-w100" />
+   <img src="https://i2.imageban.ru/out/2026/06/08/811e487e888faddfc6e03cb74589a8f0.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i5.imageban.ru/out/2026/06/08/dc754b68faf788720faab291d3229fce.jpg" class="grid-w50 md:grid-w50" />
 {{< /gallery >}}
 
 В парке были интересные деревянные и каменные фигурки
 
 {{< gallery >}}
-  <img src="https://images2.imgbox.com/7b/92/gf7dsKQd_o.jpg" class="grid-w50 md:grid-w50" />
-   <img src="https://images2.imgbox.com/87/db/D7Tgsvfp_o.jpg" class="grid-w50 md:grid-w50" />
-  <img src="https://images2.imgbox.com/11/a2/Vk9jIOtx_o.jpg" class="grid-w100 md:grid-w100" />
+  <img src="https://i6.imageban.ru/out/2026/06/08/023ea51380e5962351d686913d5c0c24.jpg" class="grid-w50 md:grid-w50" />
+   <img src="https://i6.imageban.ru/out/2026/06/08/a5edf3456c976a46942c455e168a6c5c.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i5.imageban.ru/out/2026/06/08/b2052696b2ec05432a2ba301af172881.jpg" class="grid-w100 md:grid-w100" />
 {{< /gallery >}}
 
 После легкой прогулки и купания доехали до основной цели в поселке - янтарный комбинат. Рассказали очень интересную экскурсию о том как добывают янтарь. Сколько его добывают и как менялось производство во времени. Через камеры можно посмотреть на карьер в живую. В конце экскурсии "разрешили" покопаться в местной песочнице и поискать янтарь. Работники специально часть отходов производства туда кидают. Всей группой с садовыми лопатками около получаса рыли землю в поисках камня. Интересное развлечение. Что-то нашли. Ну а кто-то покупал готовую продукцию в подарок.
 
 {{< gallery >}}
-  <img src="https://images2.imgbox.com/b0/5d/4y1zsRRD_o.jpg" class="grid-w50 md:grid-w50" />
-   <img src="https://images2.imgbox.com/53/37/wUtnz6ui_o.jpg" class="grid-w50 md:grid-w50" />
-  <img src="https://images2.imgbox.com/e8/e3/5sS32a3k_o.jpg" class="grid-w100 md:grid-w100" />
+  <img src="https://i1.imageban.ru/out/2026/06/08/4d89112fe7d151823a7a43eed4db519c.jpg" class="grid-w50 md:grid-w50" />
+   <img src="https://i5.imageban.ru/out/2026/06/08/4c4c177b8a74f652ba3e2b5a93e589c2.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i4.imageban.ru/out/2026/06/08/fc097b9262e2b646a19b0c4051a9ea50.jpg" class="grid-w100 md:grid-w100" />
 {{< /gallery >}}
 
 ### Балтийск
@@ -101,11 +101,11 @@ categories: [Путешествия]
 Вторая половина дня была посвящена одному из западных городов России. Городу Балтийску. Или Пиллау, как его раньше называли. Сам город не очень большой и достопримечательностей там немного. Мы решили через море пройти на балтийскую косу и немного погулять там. Погулять именно в нежилой части. А там классные пляжи и заброшенный аэропорт со времен второй мировой. Есть и бункеры, которые мы тоже нашли.
 
 {{< gallery >}}
-  <img src="https://images2.imgbox.com/c0/26/bbr73ozV_o.jpg" class="grid-w50 md:grid-w50" />
-  <img src="https://images2.imgbox.com/6b/0a/HyhHweRb_o.jpg" class="grid-w50 md:grid-w50" 
+  <img src="https://i3.imageban.ru/out/2026/06/08/a0c1e9d71845f24b2900e15bb9b0a3e6.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i1.imageban.ru/out/2026/06/08/4a17a7f3788028540628df03fd1631d2.jpg" class="grid-w50 md:grid-w50" 
   />
-   <img src="https://images2.imgbox.com/71/34/9RMhMkdc_o.jpg" class="grid-w100 md:grid-w100" />
-  <img src="https://images2.imgbox.com/b8/a0/DZt6RExF_o.jpg" class="grid-w100 md:grid-w100" 
+   <img src="https://i1.imageban.ru/out/2026/06/08/ac56616af12707d43444079df228f894.jpg" class="grid-w100 md:grid-w100" />
+  <img src="https://i6.imageban.ru/out/2026/06/08/30f512847a140490f519c536fb99a193.jpg" class="grid-w100 md:grid-w100" 
   />
 {{< /gallery >}}
 
@@ -120,10 +120,10 @@ categories: [Путешествия]
 Взяли экскурсию и дегустацию сыров. Экскурсия была интересная, но по поводу дегустации не могу сказать того же. Слишком быстро и слишком мало разных блюд. Но тем не менее, довольно вкусных. На выходе зашел в их магазин и купил много конфет как на подарок, так и "на еду" домой. Чем увеличил перевес ручной клади еще на один килограмм
 
 {{< gallery >}}
-  <img src="https://images2.imgbox.com/d2/7b/gtJ73wVy_o.jpg" class="grid-w50 md:grid-w50" />
-  <img src="https://images2.imgbox.com/2d/70/MkFYiyZS_o.jpg" class="grid-w50 md:grid-w50" 
+  <img src="https://i3.imageban.ru/out/2026/06/08/3b66f48cc1f857aa9731dfea2847a0ea.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i4.imageban.ru/out/2026/06/08/161e5f6b744d86db1e06cfd65b10dba7.jpg" class="grid-w50 md:grid-w50" 
   />
-   <img src="https://images2.imgbox.com/a2/82/3Wm6M4yn_o.jpg" class="grid-w100 md:grid-w100" />
+   <img src="https://i7.imageban.ru/out/2026/06/08/17ef4245458e9307a2d77331f4273664.jpg" class="grid-w100 md:grid-w100" />
 {{< /gallery >}}
 
 ### Зеленоградск
@@ -134,29 +134,215 @@ categories: [Путешествия]
 
 
 {{< gallery >}}
-  <img src="https://images2.imgbox.com/38/05/Khh00Vuh_o.jpg" class="grid-w50 md:grid-w50" />
-  <img src="https://images2.imgbox.com/ee/d7/gAMXrLcZ_o.jpg" class="grid-w50 md:grid-w50" 
+  <img src="https://i5.imageban.ru/out/2026/06/08/9b6adca27d5018be6516d61078a629e9.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i5.imageban.ru/out/2026/06/08/44e0fafb0c9ee68201a089cf11bdd073.jpg" class="grid-w50 md:grid-w50" 
   />
-   <img src="https://images2.imgbox.com/54/b0/bDYdyXgP_o.jpg" class="grid-w50 md:grid-w50" />
-  <img src="https://images2.imgbox.com/2b/03/cAHrADFp_o.jpg" class="grid-w50 md:grid-w50" />
+   <img src="https://i5.imageban.ru/out/2026/06/08/b9c0a2102087dfac6f3ad5232e577494.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i6.imageban.ru/out/2026/06/08/5c5a3da2e68d1b72de26259ae083642b.jpg" class="grid-w50 md:grid-w50" />
 {{< /gallery >}}
 
 Пляжи и набережные тоже хороши
 
 {{< gallery >}}
-  <img src="https://images2.imgbox.com/9c/07/0uOumytg_o.jpg" class="grid-w100 md:grid-w100" />
-  <img src="https://images2.imgbox.com/51/e8/d32LIvvM_o.jpg" class="grid-w50 md:grid-w50" 
+  <img src="https://i1.imageban.ru/out/2026/06/08/a822abaa35c9a5c781ec790317148497.jpg" class="grid-w100 md:grid-w100" />
+  <img src="https://i8.imageban.ru/out/2026/06/08/fb1f9460a49802cca2ebdd1493dfb1d5.jpg" class="grid-w50 md:grid-w50" 
   />
-   <img src="https://images2.imgbox.com/bc/2f/3JTPfDtr_o.jpg" class="grid-w50 md:grid-w50" />
+   <img src="https://i8.imageban.ru/out/2026/06/08/48092842146a838e20109bcfd2e7416b.jpg" class="grid-w50 md:grid-w50" />
 {{< /gallery >}}
 
 По завершении всех дел доехали до старой немецкой водонапорной башни, которая сейчас является музеем кошек (Мурариум). Вход не дорогой, экспонаты на любителя. Но можно выйти на смотровую. Погода позволяла и удалось снять красивые виды с высоты. Ну и скамейку в виде кота.
 
 {{< gallery >}}
-  <img src="https://images2.imgbox.com/8b/e6/XONjH712_o.jpg" class="grid-w100 md:grid-w100" />
-  <img src="https://images2.imgbox.com/09/ae/qhOeXnpv_o.jpg" class="grid-w50 md:grid-w50" 
+  <img src="https://i1.imageban.ru/out/2026/06/08/3cfa0c08b47a9266c0727600d7260214.jpg" class="grid-w100 md:grid-w100" />
+  <img src="https://i6.imageban.ru/out/2026/06/08/8a184ed1af0b241e29c1b91d0d91e79e.jpg" class="grid-w50 md:grid-w50" 
   />
-   <img src="https://images2.imgbox.com/0e/40/4370YY3h_o.jpg" class="grid-w50 md:grid-w50" />
+   <img src="https://i7.imageban.ru/out/2026/06/08/a7cf17d729ed3c1f8735b9b2176cb994.jpg" class="grid-w50 md:grid-w50" />
+   <img src="https://i1.imageban.ru/out/2026/06/08/52259c62964eca755eed03c44bae7309.jpg" class="grid-w100 md:grid-w100" />
 {{< /gallery >}}
 
 ## День 4 - Коса и ежики
+
+### Куршская коса
+
+Понедельник. День для посещения Куршской косы. Уже не выходные, туристов уже меньше. Встали очень рано, чтобы добраться и запарковаться без каких либо проблем. Не выспался, всего шесть с половиной часов удалось поспать.
+
+До косы Зеленоградска доехали быстро. Оттуда через КПП проехали на территорию косы. Пейзажи на дороге интересные - вокруг одни деревья, дающие тень в этот солнечный день.
+
+Первая остановка - Высота Эфа (это высшая точка дюны Ореховой). Дошли быстро, везде деревянные дорожки, заблудиться сложно.
+
+{{< gallery >}}
+  <img src="https://i3.imageban.ru/out/2026/06/08/4b376d478d027c399dc9964274185d8e.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i5.imageban.ru/out/2026/06/08/0ea70ca43ed0278320f9ca8283f696c9.jpg" class="grid-w50 md:grid-w50" 
+  />
+{{< /gallery >}}
+
+Потом дошли до другой стороны косы и немного полежали на удивительном песчаном пляже
+
+{{< gallery >}}
+  <img src="https://i2.imageban.ru/out/2026/06/08/8d6b450141c1bb32ca9a43e468f60da3.jpg" class="grid-w100 md:grid-w100" />
+  <img src="https://i2.imageban.ru/out/2026/06/08/786675c8e5d6961d4594115943c08124.jpg" class="grid-w100 md:grid-w100" 
+  />
+{{< /gallery >}}
+
+Поднялись еще к одной площадке, название которой я не не запомнил. Оттуда тоже удалось пару кадров с морем снять
+
+{{< gallery >}}
+  <img src="https://i2.imageban.ru/out/2026/06/08/617c45fac1b2a416e8b158e9139805fe.jpg" class="grid-w100 md:grid-w100" />
+{{< /gallery >}}
+
+Зашли еще и в танцующий лес. Лично меня он не впечатлил, поэтому фотографий нет.
+
+### Светлогорск
+
+В общей сложности часа на косе погуляли и поехали до города Светлогорска. Как раз было время обеда, перекусили в столовой. Набережная не такая как была вчера в Зеленоградске. Но есть своя достопримечательность - парк с фигурками ёжиков. Я, как любитель всякого рода фигурок, собрал их всех.
+
+{{< gallery >}}
+  <img src="https://i7.imageban.ru/out/2026/06/08/a266f7f5bc82a34be11d4950d8c26749.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i5.imageban.ru/out/2026/06/08/0c22798a68e250594fd5db30ffee2894.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i1.imageban.ru/out/2026/06/08/d0f8fa1ba481cbd623113502ff419d02.jpg" class="grid-w100 md:grid-w100" />
+  <img src="https://i2.imageban.ru/out/2026/06/08/291a13717f050182bbd568208706b406.jpg" class="grid-w100 md:grid-w100" />
+  <img src="https://i8.imageban.ru/out/2026/06/08/e2d39a37db56613a7323517f61c268a2.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i3.imageban.ru/out/2026/06/08/501e9600d98c5294781f1e86915784a5.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i5.imageban.ru/out/2026/06/08/3791a1b11fe246a411a8e73cdcfe7334.jpg" class="grid-w100 md:grid-w100" />
+  <img src="https://i2.imageban.ru/out/2026/06/08/f85ece8244793c8e002244d3bd863af7.jpg" class="grid-w50 md:grid-w50" />
+<img src="https://i4.imageban.ru/out/2026/06/08/a7343cb369e0770f52d53d3b07c3411a.jpg" class="grid-w50 md:grid-w50" />
+<img src="https://i1.imageban.ru/out/2026/06/08/f7d3bca0608978ebd54646d7ccafdc13.jpg" class="grid-w100 md:grid-w100" />
+{{< /gallery >}}
+  
+Сам парк находится рядом с прудом
+
+{{< gallery >}}
+  <img src="https://i5.imageban.ru/out/2026/06/08/9782bc5531c28a75acd2b2028bcef673.jpg" class="grid-w100 md:grid-w100" />
+{{< /gallery >}}
+
+Без приключений не выдался день. Зашли в часть парка, в которой ведутся ремонтные работы и закрыт проход. Надо было возвращаться назад и идти около 3 километров. Но наша бравая команда решила пересечь огороженный мост по его кромке. Почему бы и нет.
+
+{{< gallery >}}
+  <img src="https://i6.imageban.ru/out/2026/06/08/052aac1c82fc943d57028141de221ece.jpg" class="grid-w100 md:grid-w100" />
+{{< /gallery >}}
+
+## День 5 - Кирха и Советск
+
+Ещё один насыщенный день. Прямо очень насыщенный. Я даже не ожидал, что таким он окажется.
+
+### Кирха
+
+Утром доехали до старой кирхи, где нам рассказали историю протестантской церкви. Храм старый (аж с 1300 годов) и за своё время повидал всякое. Но к счастью сохранился он очень хорошо.
+
+{{< gallery >}}
+  <img src="https://i8.imageban.ru/out/2026/06/08/88c2968a0912251e62bd526ed9c8404b.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i8.imageban.ru/out/2026/06/08/21211060a8d2d55668f9ed3e22246da6.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i8.imageban.ru/out/2026/06/08/97a1dc55bf9c6428b2096d06ac96249b.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i3.imageban.ru/out/2026/06/08/962d355cdc9f3d7127661c0a564cd8da.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i4.imageban.ru/out/2026/06/08/27e57902313384e94564da42d08f5ce3.jpg" class="grid-w100 md:grid-w100" />
+{{< /gallery >}}
+
+### Советск, граница, Неман
+
+Далее часа полтора или два ехали на другой конец области. На её восточную границу с Литвой. В город Советск. Или как он раньше назывался - Тильзит. Знаменит тем, что тут был подписан тильзитский вечный мирный договор между Наполеоном и Александром I. Но как и все вечное, договор от силы года четыре продержался. Еще одна достопримечательность - граница с Литвой и мост, который ведет на другой берез реки Неман. Город не такой популярный у туристов, что-то другого тут особо и нет
+
+{{< gallery >}}
+  <img src="https://i7.imageban.ru/out/2026/06/08/5291b7c81003bf4e0a19b351fe908294.jpg" class="grid-w100 md:grid-w100" />
+  <img src="https://i1.imageban.ru/out/2026/06/08/b2b409d1920b4277adc6fda7e24e8665.jpg" class="grid-w100 md:grid-w100" />
+  <img src="https://i1.imageban.ru/out/2026/06/08/516837c21b31c6d1e7063d1a334e4642.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i6.imageban.ru/out/2026/06/08/29946a118a358c3a9075ebbcd0da41a4.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i5.imageban.ru/out/2026/06/08/b833cf8c78308b3c197b329f6bbfa484.jpg" class="grid-w100 md:grid-w100" />
+{{< /gallery >}}
+
+### Форт №4
+
+После ужина спонтанно собрались до одного из фортов, который недалеко от отеля. Идти до него пару километров. Такие форты в своё время (1870-1880) строили вокруг всего Кёнигсберга. Часть из них в хорошем состоянии, часть разрушена во время второй мировой, часть просто заброшена. Наш попал в последнюю категорию.
+
+Вокруг форта по традиции ров с водой. Рядом очень и очень много комаров. Сам форт уже частично покрыт почвой и на нем растут деревья. Но внутри он довольно хорошо сохранился.
+
+На локации были часа три. Сначала исследовали катакомбы с фонариками, потом отсняли закат с видом на воду. и еще немного погуляли вокруг. Прогулка интересная, но под конец дня я очень устал. 
+
+{{< gallery >}}
+  <img src="https://i8.imageban.ru/out/2026/06/08/deb974145259115e1aeb6a7646b8554b.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i2.imageban.ru/out/2026/06/08/acb5a59fc5e13c711454f9b20cfc15ff.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i6.imageban.ru/out/2026/06/08/f57bf669062b8f35470d73d5ce9e8525.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i5.imageban.ru/out/2026/06/08/5fc02e9114ac923a62721dc308bdddf9.jpg" class="grid-w50 md:grid-w50" />
+<img src="https://i7.imageban.ru/out/2026/06/08/ca8bdc42211237c6f6baa55876e00c56.jpg" class="grid-w100 md:grid-w100" />
+{{< /gallery >}}
+
+И немного заката
+
+{{< gallery >}}
+  <img src="https://i3.imageban.ru/out/2026/06/08/dc5692d1a15ff440f702a09e2d7fae10.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i8.imageban.ru/out/2026/06/08/ed1b2d49df16ae0a54276e708f3fb8e4.jpg" class="grid-w50 md:grid-w50" />
+<img src="https://i3.imageban.ru/out/2026/06/08/8a5c25305fc91f064a633b691aa5c51c.jpg" class="grid-w100 md:grid-w100" />
+{{< /gallery >}}
+
+
+## День 6 - Нойхаузен
+
+День отдыха после вчерашних приключений. Утром заехали в зоопарк Калининграда. После доехали до замка Нойхаузен. Была очень познавательная экскурсия по замку как внутри, так и снаружи. Замок очень хорошо отреставрировали.
+
+В обед поели вкусных чебуреков на трассе в кафе и доехали до Черняховска (Истенбурга), где погуляли по классному парку с озером и утками. В общем-то и все.
+
+{{< gallery >}}
+  <img src="https://i5.imageban.ru/out/2026/06/08/1694fc32d30bc59a641aa606df0e0932.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i3.imageban.ru/out/2026/06/08/b62a27a0a0251c822cddab57e795fdfa.jpg" class="grid-w50 md:grid-w50" />
+<img src="https://i8.imageban.ru/out/2026/06/08/7b738d461d73c36808d66447e774cc1f.jpg" class="grid-w100 md:grid-w100" />
+<img src="https://i2.imageban.ru/out/2026/06/08/ddad96cc3bc1a071bcd2a132eaea43aa.jpg" class="grid-w50 md:grid-w50" />
+<img src="https://i4.imageban.ru/out/2026/06/08/c656dda9016f228a208ee6f2cf1f1c94.jpg" class="grid-w50 md:grid-w50" />
+<img src="https://i6.imageban.ru/out/2026/06/08/56a94178977aa256e1fa03ffc9a71d2f.jpg" class="grid-w50 md:grid-w50" />
+<img src="https://i6.imageban.ru/out/2026/06/08/96586fb7aa2035f8c85a113c702330a6.jpg" class="grid-w50 md:grid-w50" />
+{{< /gallery >}}
+
+## День 7 - Орган, океан, форт и закат
+
+### Калининград 
+
+На этот день было запланировано просто немыслимое количество мероприятий. И у нас, и у погоды. Если раньше у нас всегда солнце было и иногда облачка, что в этот день встретил нас сильным утренним дождем.
+
+Утром сдали номера, собрали вещи, загрузились в машины. Доехали до острова Канта, какое-то время в дождевиках гуляли и наслаждались видами. В 11 часов был концерт органной музыки. Впечатлило. Хорошая акустика в соборе. Рекомендую.
+
+После концерта опять же под дождем дошли до музея мирового океана. Красиво, тем не менее, с московским не сравнится. Но это чисто моё мнение
+
+{{< gallery >}}
+  <img src="https://i3.imageban.ru/out/2026/06/08/4140a6c028a9d6c862257663e2782d60.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i1.imageban.ru/out/2026/06/08/1f94ed907d556e5faa4eecc68e4c06d4.jpg" class="grid-w50 md:grid-w50" />
+<img src="https://i8.imageban.ru/out/2026/06/08/d5afc6ce0d9d89e3902cc69e5e8241a6.jpg" class="grid-w50 md:grid-w50" />
+<img src="https://i4.imageban.ru/out/2026/06/08/83362ca5af3f9c64dbc9207e30c7ca0d.jpg" class="grid-w50 md:grid-w50" />
+{{< /gallery >}}
+
+К обеду погода начала исправляться и стало появляться солнышко. У каждого было свободное время до 16 часов. Я погулял по городу, поднялся на башню, сделал пару кадров.
+
+{{< gallery >}}
+  <img src="https://i1.imageban.ru/out/2026/06/08/8686aea102af50bceb80b76e987d476b.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i6.imageban.ru/out/2026/06/08/9f6343cba141ba9b334a97f781cd27df.jpg" class="grid-w50 md:grid-w50" />
+<img src="https://i1.imageban.ru/out/2026/06/08/5131e54dc60dccda6a4a707fe09b36fa.jpg" class="grid-w100 md:grid-w100" />
+<img src="https://i5.imageban.ru/out/2026/06/08/393d58e68cb0918b7c624f68a87e9c3b.jpg" class="grid-w100 md:grid-w100" />
+{{< /gallery >}}
+
+### Еще один форт
+
+К пяти или шести вечера приехали на форт №11. Он лучше, чем позавчера был. И по состоянию, и по условиям (на фото видна разница). Все таки туристический объект. Экскурсовод очень подробно рассказал про структуру фортов, почему они были построены и посоветовал какие еще форты можно посетить.
+
+Из интересного. В округе просто неимоверное количество кроликов. Они почти ручные, людей не боятся.
+
+{{< gallery >}}
+<img src="https://i1.imageban.ru/out/2026/06/08/b67813d2c94f0369b25533645a131a70.jpg" class="grid-w100 md:grid-w100" />
+  <img src="https://i2.imageban.ru/out/2026/06/08/fdeae9aeef56fbd72f7fc44585f5bdc4.jpg" class="grid-w50 md:grid-w50" />
+  <img src="https://i1.imageban.ru/out/2026/06/08/037cd1f81480de721fe03cf653690f5b.jpg"
+  class="grid-w50 md:grid-w50" />
+<img src="https://i8.imageban.ru/out/2026/06/08/55031ebd1e1c5ad00c345ecefba0c6fb.jpg" class="grid-w50 md:grid-w50" />
+<img src="https://i2.imageban.ru/out/2026/06/08/f4092ec07b740dfd283a2b9c3dd1a23a.jpg" class="grid-w50 md:grid-w50" />
+<img src="https://i8.imageban.ru/out/2026/06/08/19ef58e8f67152a5b9263cecba7b3384.jpg" class="grid-w100 md:grid-w100" />
+{{< /gallery >}}
+
+### Зеленоградск и закаты
+
+Поскольку вылет у нас в был запланирован в 1.15, то оставалось еще время. Погода к этому моменту исправилась и появилась надежда встретить закат на набережной в городе кошек - Зеленоградске. Сказано - сделано.
+
+К 20.30 подъехали на набережную, поужинали с видом на море и стали ждать закат. Хотел снять таймлапс, но, увы, не повезло. Однако, кадры получились что надо.
+
+{{< gallery >}}
+  <img src="https://i5.imageban.ru/out/2026/06/08/73c561ae328601201ea5fa071f67787b.jpg"
+  class="grid-w100 md:grid-w100" />
+  <img src="https://i3.imageban.ru/out/2026/06/08/4674bbbf38b70e6e6603739591d0843f.jpg" class="grid-w100 md:grid-w100" />
+<img src="https://i8.imageban.ru/out/2026/06/08/a8d736d673cd54add59e1c41258f3d81.jpg" class="grid-w100 md:grid-w100" />
+{{< /gallery >}}
+
+После заката попрощались с городом и в 23 часа выехали в аэропорт. На этой ноте и закончилось путешествие по Калининградской области.
