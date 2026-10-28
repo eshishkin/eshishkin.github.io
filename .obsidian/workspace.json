@@ -41,7 +41,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2025/2025-12-08/index.ru.md",
+                "file": "content/posts/2026/2026-10-27/index.ru.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index.ru"
+            }
+          },
+          {
+            "id": "2ebb8c3b39c77b48",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "content/posts/2026/2026-06-06/index.ru.md",
+                "staged": true
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (index.ru)"
+            }
+          },
+          {
+            "id": "ef41d8937a87e96a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/2025/2025-03-29 - openproject/index.ru.md",
                 "mode": "source",
                 "source": true
               },
@@ -50,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -70,7 +97,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -107,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "a47acd478881eeda",
@@ -211,8 +239,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b6fb560cd9cf1983",
+  "active": "b2193b30fbe6a5e3",
   "lastOpenFiles": [
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
+    "conflict-files-obsidian-git.md",
+    "content/posts/2026/2026-10-27/index.ru.md",
+    "content/posts/2026/2026-06-06/index.ru.md",
+    "content/posts/2026/2026-06-06",
+    "content/posts/2025/2025-03-29 - openproject/index.ru.md",
+    "content/posts/2025/2025-12-10/index.ru.md",
+    "content/posts/2025/2025-12-08/index.ru.md",
+    "content/posts/2026/2026-10-27",
+    "content/posts/2026",
     "public/css/carousel-carousel-acdd365898a4809adbec8a3f80e0c351-1765662376318263400.min.25557d56eaa6149329de0f615d77613e8bf9cbcea07c0d103703b265387240c8cc43230ae60dd5adac5f5b6bba7f70804855ae23285eb85cd913fdc4ddc70984.css",
     "content/posts/2025/2025-12-13/2025-09-27 - NGC 6992 (SW72, ASI533MC, AZEQ-6, 90x20).png",
     "content/posts/2025/2025-12-13/index.ru.md",
@@ -222,21 +262,12 @@
     "public/ru/2025/12/13/astro/veil-nebula/index.html",
     "public/ru/2025/12/13/astro/veil-nebula",
     "public/ru/2025/12/13/astro",
-    "public/ru/2025/12/13",
-    "public/css/carousel-carousel-acdd365898a4809adbec8a3f80e0c351-1765661289314289700.min.721fa331f3b66c28842101b048417010f3d013dbb3d8d78d490bb0f7d89578cbe7c6ae306fb3309348ae66b2fa84fe91e8a686cbd1906e62a4118b6f6d4e33ff.css",
     "public/ru/2025/12/14/astro/veil-nebula/2025-09-27 - NGC 6992 (SW72, ASI533MC, AZEQ-6, 90x20).png",
     "content/posts/2025/2025-12-14/2025-09-27 - NGC 6992 (SW72, ASI533MC, AZEQ-6, 90x20).png",
-    "public/css/carousel-carousel-acdd365898a4809adbec8a3f80e0c351-1765661287309250700.min.6070274f8021a9addfd412d5ab63d3cf9a4ebda6b8214529fd88f5f54706c13db286acab5a18d75cd490a23dfffa0b56c47cf806dd9a066b02d1fd26aa2d5f1b.css",
     "public/ru/2025/12/14/astro/veil-nebula/2025-09-22 - NGC 6960 (SW72, ASI533MC, AZEQ-6, 90x34).png",
     "content/posts/2025/2025-12-14/2025-09-22 - NGC 6960 (SW72, ASI533MC, AZEQ-6, 90x34).png",
-    "content/posts/2025/2025-12-10/index.ru.md",
-    "content/posts/2025/2025-12-08/index.ru.md",
-    "public/ru/2025/12/14/astro/veil-nebula/index.html",
-    "public/ru/2025/12/14/astro/veil-nebula",
-    "public/ru/2025/12/14/astro",
     "public/ru/2025/12/09/astro/ngc7023/2025-09-21 - NGC 7023 (SW72, ASI533MC, AZEQ-6, 90x50).png",
     "public/ru/2025/12/10/astro/ngc281/2025-09-22 - NGC 281 (SW72, ASI533MC, AZEQ-6, 90x65).png",
-    "Untitled.md",
     "content/posts/2025/2025-12-10/2025-09-22 - NGC 281 (SW72, ASI533MC, AZEQ-6, 90x65).png",
     "content/posts/2025/2025-12-09/index.ru.md",
     "public/ru/2025/12/08/astro/ngc2023/2025-09-21 - NGC 2024 (SW72, ASI533MC, AZEQ-6, 90x20).png",
@@ -255,9 +286,6 @@
     "themes/blowfish/exampleSite/content/users/27cc5a091bef86a9b5dcfa2c035308ed/index.ja.md",
     "themes/blowfish/exampleSite/content/users/27cc5a091bef86a9b5dcfa2c035308ed/index.it.md",
     "themes/blowfish/exampleSite/content/users/bfe9e12b443e96f40b05b584166636f5/index.zh-cn.md",
-    "themes/blowfish/exampleSite/content/users/bfe9e12b443e96f40b05b584166636f5/index.ja.md",
-    "themes/blowfish/exampleSite/content/users/bfe9e12b443e96f40b05b584166636f5/index.md",
-    "themes/blowfish/exampleSite/content/users/bfe9e12b443e96f40b05b584166636f5/index.it.md",
-    "themes/blowfish/exampleSite/content/users/9901f5943260b32ac3002c1002408f19/index.zh-cn.md"
+    "themes/blowfish/exampleSite/content/users/bfe9e12b443e96f40b05b584166636f5/index.ja.md"
   ]
 }
